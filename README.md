@@ -24,8 +24,8 @@ The dashboard will display the current CPU and memory usage metrics, along with 
 
 ## Dependencies
 - Python
-- Flask
-- psutil
+- Docker
+- Kubernetes
 
 ## Note
 This application is intended for demonstration and educational purposes. It provides a basic example of monitoring system resources using Flask and psutil. For production use, consider adding more advanced features, security measures, and robust error handling.
